@@ -1,4 +1,4 @@
-# Kalpa
+# PlasmaBuddy
 
 This is an application for tracking plasma center donation rates. This is a frontend angular application, intended to work with an express api. 
 

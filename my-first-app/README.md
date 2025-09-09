@@ -22,7 +22,7 @@ This is an application for tracking plasma center donation rates. This is a fron
 
 Once the project is cloned down from github, run the following in your command line to start the development version of the project:  
 ```bash
-cd kalpa
+cd my-first-app
 git checkout dev
 npm install
 ng serve
@@ -62,24 +62,23 @@ Please make sure that you create your feature branch off of dev and that your br
 
 ## 🔗 Links
 ---
-- [GitHub Repository for Angular Project](https://github.com/cynerge-consulting/kalpa)
-- [GitHub Repository for Express Project](https://github.com/cynerge-consulting/kalpa-nodejs)
-- [GitHub kanban](https://github.com/orgs/cynerge-consulting/projects/2/views/1)
-- [Live dev site](https://dev.kalpapdmsdev.com/signin)
-- [Live staging site](https://stg.kalpapdmsdev.com/signin)
-- [Figma design center](https://www.figma.com/file/M7fl2LWGWqKF3MqHIlXx8a/V4-Wireframes-2.0-(hi-fi)?node-id=3626%3A143326&mode=dev)  
-- [Teamwork Board](https://cynerge.teamwork.com/app/projects/352923/tasks/board)
-- [Spaces Documentation Hub](https://cynerge.teamwork.com/spaces/kalpa-team-information/page/home)
+- [GitHub Repository for Angular Project]()
+- [GitHub Repository for Express Project]()
+- [GitHub kanban]()
+- [Live dev site]()
+- [Live staging site]()
+- [Figma design center]()  
+- [Teamwork Board]()
+- [Spaces Documentation Hub]()
 
-note: you will need permissions from Cynerge for access to these resources
+note: you will need permissions from Zachary for access to these resources
 
 <br />
 <br />
 
 ## 🖥️ Contributors
 ---
-- Josh Forman
 - Zach Joliff
 
 ## License
-Kalpa Solutions is a product of Cynerge Consulting, Inc. © 2023 - All Rights Reserved
+PlasmaPal is a product of Jolliff Consulting, Inc. © 2025 - All Rights Reserved
